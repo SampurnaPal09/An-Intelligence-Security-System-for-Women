@@ -1,0 +1,20 @@
+1. ESP32
+2. ESP32-CAM
+3. SIM A7670C
+4. GPS NEO-6M
+5. High Voltage Shock Generator
+6. QIAChip 433Mhz Receiver Module
+7. RF Transmitter Remote
+8. 3S BMS
+9. Lithium ion Battery
+10. LED
+11. DC Female Socket
+12. 12v 2A Adapter
+13. 7805 IC
+14. Switch
+15. Push Button
+16. 25v 1000 µF Capacitor
+17. 1N4007 Diode
+18. 680 Ω Resistor
+19. Veroboard
+20. Jumper Wires
